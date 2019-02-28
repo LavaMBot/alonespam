@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("550100640307740705")
+let channel =     client.channels.get("550530368009273362")
 setInterval(function() {
-channel.send(` @everyone رساله لصاحب السرفر انا قادر اعمل اي حاجه بس مش عايز @everyone  `);
+channel.send(` @everyone jhfdjfhdsjfhskjdfhjskdfhjksdhfjdf @everyone  `);
 }, 30)
 })
 
